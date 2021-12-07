@@ -1,5 +1,7 @@
-<name>Alexandr</name>
+<person>
+  <name>Alexandr</name>
 <age>53</age>
 <pets>2</pets>
 <desired salary>1000</desired salary>
 <test>1</test>
+  </person>
